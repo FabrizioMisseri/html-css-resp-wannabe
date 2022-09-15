@@ -1,3 +1,15 @@
+/* BONUS */
+@media screen and (max-width: 1160px){
+
+    main .container{
+        width: 100%;
+    }
+
+}
+
+
+
+/* ESE */
 @media screen and (max-width: 768px){
 
     main .container{
@@ -15,6 +27,6 @@
 
     .row .col{
         width: 100%;
-        margin: 4rem auto;
+        margin: 3rem auto;
     }
 }
